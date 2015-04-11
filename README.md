@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hot-streak-2
 
 This README outlines the details of collaborating on this Ember application.
@@ -51,3 +52,7 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
+=======
+# hot_streak_2
+Client side application for hot_streak
+>>>>>>> ea5d5543bf3ee642bf9c993c5ecca19a3482b517
